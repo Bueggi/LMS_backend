@@ -1,2 +1,9 @@
+##### NODE MODULES
 ./node_modules
 /node_modules
+
+###### ENVIRONMENT
+env
+.env
+./.env
+./env
